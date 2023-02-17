@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AKSHAY N</h1>
-<img align="center" alt="akshaynstack" src="https://github.com/akshaynstack/akshaynportfolio/raw/main/akshayn-linkedin.png?raw=true">
+<img align="center" alt="akshaynstack" src="https://i.imgur.com/pJWEUvt.png">
 <h4 align="left">Passionate Full Stack Web Developer with a proven track record of delivering high-quality web applications. With 3+ years of experience, I possess a strong understanding of front-end and back-end technologies, including HTML, CSS, JavaScript, PHP, MongoDB, ReactJS, NextJS, Tailwind CSS, Bootstrap. My skills in building responsive and interactive websites are combined with an eye for design, ensuring visually appealing and user-friendly applications. I am always eager to learn new technologies and apply them to solve real-world problems.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaynstack&label=Profile%20views&color=0e75b6&style=flat" alt="akshaynstack" /> </p>
